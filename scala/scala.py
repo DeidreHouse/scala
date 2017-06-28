@@ -1,6 +1,6 @@
 '''
 -----------------------------------------------------------------
-This is my Python module for working with Scala files.
+This is my Python module for working with .scl tuning files.
 Initial design is oriented towards extending Csound and CsoundAC.
 ------------------------------------------------------------------
 '''
@@ -26,7 +26,6 @@ from numbers import Number
 from functools import reduce  # because they removed it in Python 3
 import os
 import re
-
 
 # For debugging purposes:
 testscale = """

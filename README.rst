@@ -1,3 +1,3 @@
 scala python package
 
-This package is for reading and manipulating scala files.
+This package is for reading and manipulating .scl tuning files.
