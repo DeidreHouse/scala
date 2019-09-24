@@ -4,7 +4,7 @@ This is my Python module for working with .scl tuning files.
 Initial design is oriented towards extending Csound and CsoundAC.
 ------------------------------------------------------------------
 '''
-# Copyright 2016 Dillon Ethier
+# Copyright 2016 Deidre Ethier
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
